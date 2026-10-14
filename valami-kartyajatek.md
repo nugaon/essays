@@ -4,7 +4,7 @@ Ez a dokumentum egy olyan kártyajátékot ír le, ami mókás és nyugodtan já
 
 ## Alap szabályok
 
-* 2 teljes franciakártyával játszák (4 Jokerrel ami bármit helyettesít).
+* 2 teljes franciakártyával játszák (4 Jokerrel ami bármit helyettesít). Ha 5-nél több játékos van több paklit is be lehet keverni.
 * A játékosok különböző összegeket raknak le. (Pl. 4 Treff + 5 Káró = 9)
 * Minden karakteres lap 10-et ér, de az Ász 1-et ér.
 * Minden játékosnak kezdésként 22 kártyája van (de ez lehet kevesebb/több is, ahogy a társaság eldönti).
