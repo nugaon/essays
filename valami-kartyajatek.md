@@ -19,7 +19,7 @@ Ez a dokumentum egy olyan kártyajátékot ír le, ami mókás és nyugodtan já
 * 1-9-ig maximum 3 kártyát lehet lerakni az összeghez, és páros lapnál kell húzni a pakliból.
 * 9-es lerakásánál a játékos egy másik játékos kezéből húz 1 kártyát, ezek után dobnia kell még egy összeget.
 * 8-as lerakásánál a pakliból a játékosnak 2 kártyát kell húznia, majd dobnia kell még egy összeget.
-* Különleges kombinációk a King és a Queen, illetve a Jack és a 10-es. Ezeket ha lerakják párban, akkor +1 összeget kell raknia a játékosnak.
+* Különleges kombinációk a King és a Queen, illetve a Jack és a 10-es. Ezeket ha lerakják párban, akkor +1 összeget kell raknia a játékosnak. A pároknak színben kell lenniük.
 
 ## Copyright
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
